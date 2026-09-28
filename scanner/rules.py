@@ -1,7 +1,5 @@
 from __future__ import annotations
 
-import re
-
 from . import patterns as P
 from .base import SEVERITY_ORDER, Finding, ScanConfig
 
